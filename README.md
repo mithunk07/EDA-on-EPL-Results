@@ -1,4 +1,4 @@
-This folder contains Explatory Data Analysis done on a EPL Results Dataset using Python.
+This repository contains Explatory Data Analysis done on a EPL Results Dataset using Python.
 
 About Dataset:
 
